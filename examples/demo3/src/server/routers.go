@@ -106,7 +106,19 @@ var routes = Routes{
 	Route{
 		"AmsCreatePOST",
 		strings.ToUpper("post"),
-		"/service/create/ams",
+		"/service/ams/create",
 		AmsCreatePOST,
+	},
+	Route{
+		"AmsSubscriptionPOST",
+		strings.ToUpper("post"),
+		"/subscriptions",
+		AmsSubscriptionPOST,
+	},
+	Route{
+		"AmsNotificationPOST",
+		strings.ToUpper("post"),
+		"/services/callback/amsevent",
+		AmsNotificationPOST,
 	},
 }
