@@ -112,7 +112,7 @@ var routes = Routes{
 	Route{
 		"AmsSubscriptionPOST",
 		strings.ToUpper("post"),
-		"/subscriptions",
+		"/ams/subscriptions",
 		AmsSubscriptionPOST,
 	},
 	Route{
