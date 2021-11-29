@@ -2,7 +2,7 @@
 
 ## Quick start 
 
-- Login via the frontend & select Sandbox tab
+- Login via the frontend & select Sandbox tab.
 - Select a network to deploy in the user sandbox
 - Create a unique MEC Application Instance ID
 - Select & copy the MEC Sandbox endpoint up to value of MEC platform into util/uc1uc2.yaml sandbox 
