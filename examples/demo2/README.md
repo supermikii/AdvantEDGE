@@ -4,7 +4,7 @@ This scenario is the same as [demo1](../demo1/README.md) except that it uses _us
 
 ## Prerequisites
 
-- Running AdvantEDGE platform.
+- Running AdvantEDGE platform..
 - Demo1 docker images
   - [Build demo1](../demo1/README.md)
   - [Dockerize demo1](../demo1/README.md)
