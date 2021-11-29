@@ -11,7 +11,7 @@ This scenario is the same as [demo1](../demo1/README.md) except that it uses _us
 
 ## Using the scenario
 
-The following steps need to be done prior to using this scenario
+The following steps need to be done prior to using this scenario.
 
 ##### Build
 
