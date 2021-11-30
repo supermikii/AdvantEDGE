@@ -1,6 +1,6 @@
 # Demo2
 
-This scenario is the same as [demo1](../demo1/README.md) except that it uses _user charts_ to deploy its components instead of using dynamic chart generation.
+This scenario is the same as [demo1](../demo1/README.md) except that it uses _user charts_ to deploy its components instead of using dynamic chart generation...
 
 ## Prerequisites
 
